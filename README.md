@@ -22,9 +22,6 @@ This is a simple desktop quiz application built using Java Swing and MySQL.
 4. At the end, the score is calculated.
 5. Score is stored in the MySQL database.
 
-## Screenshot
-(Add screenshot of your application)
-
 ## Author
 Jenifa
 Diploma Student – Electronics & Computer Engineering
