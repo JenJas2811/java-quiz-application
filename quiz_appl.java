@@ -108,8 +108,6 @@ public class quiz_appli{
     for(int i = 0; i < 4; i++) {
         optionButtons[i].setText(options[questionIndex][i]);
     }
-
-    // Change button text on last question
     if(questionIndex == questions.length - 1) {
         nextButton.setText("Submit");
     } else {
@@ -155,4 +153,5 @@ public class quiz_appli{
 
         resultFrame.setVisible(true);
     }
+
 }
